@@ -1,5 +1,3 @@
-# TotalZeroAppNodeJs
-
 <h1 align="center">
 Total Zero
 </h1>
