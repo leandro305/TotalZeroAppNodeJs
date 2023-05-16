@@ -30,4 +30,4 @@ O projeto **-Total Zero-** foi desenvolvido com objetivo de mostrar o desenvolvi
 ---
 
 ## Referência:
-<h3>Foi desenvolvido 💜 por Daniele Leão Evangelista</h3>
+<h3>Daniele Leão Evangelista💜</h3>
